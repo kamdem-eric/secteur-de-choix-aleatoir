@@ -1,0 +1,1 @@
+# secteur-de-choix-aleatoir
